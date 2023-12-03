@@ -11,8 +11,12 @@
 </div>
 <h3 align="center">👩‍💻 My Tech Stats 👩‍💻</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=Unreal&logoColor=blue"> / c#
-<div align="center">
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=blue"> / c++
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
+<img alt="Unreal" src="https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=blue"/> 
+  <div align="center">
+ <img alt="csharp" src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=blue"/> 
+<img alt="cplusplus" src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> 
+
+
 
 
