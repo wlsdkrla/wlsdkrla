@@ -1,19 +1,9 @@
 ### Hi there 👋
+<h3 align="center">👩‍💻 Contact 👩‍💻</h3>
+<div align="center">
+<a href="https://www.notion.so/Potfolio-6e35bc400fa34922907b844dce17dd01?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=blue">
 
-<!--
-**wlsdkrla/wlsdkrla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
@@ -21,5 +11,5 @@ Here are some ideas to get you started:
 </div>
 <h3 align="center">👩‍💻 My Tech Stats 👩‍💻</h3>
 <div align="center">
-
-<img src="https://img.shields.io/badge/Unreal-#0E1128?style=for-the-badge&logo=Unreal&logoColor=white">
+<img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=Unreal&logoColor=blue">
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=blue">
